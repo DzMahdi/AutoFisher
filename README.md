@@ -10,6 +10,8 @@ Then, it loads a reference image (template) that corresponds to the appearance o
 At each iteration, the program takes a screenshot of the specified play area and milks it to detect the presence of the yellow line on the blue square. If the result is greater than or equal to 0.8 (which means the yellow line is on the blue square), the program simulates a click on the fishing button (the big white circle).
 ![image](https://user-images.githubusercontent.com/89668373/235973652-5d2ff4db-44ce-4bf5-b573-a24a65c082c3.png)
 
+When the fish is catch, the white circle disapear so the program will press "e" on your keyboard to catch the fish and then will restart the process until u press the "q" button to stop the program. 
+
 
 
 
