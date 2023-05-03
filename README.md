@@ -1,17 +1,12 @@
-# AutoFisher
-This code allows you to automate fishing in a game. This fishing game is simple, you have a yellow line and if it goes to the blue rectangle u have to press the big white cercle. you do this until you have catch a fish. 
+#Introducing AutoFisher, 
 
-![image](https://user-images.githubusercontent.com/89668373/235968973-0640f012-e329-4bd7-9109-8625d89d81c7.png)
+the ultimate solution for automating fishing in your favorite game! If you've ever found yourself endlessly clicking away at your mouse while trying to catch a fish, this code is for you. With AutoFisher, you can sit back and relax while the program does the work for you.
 
-First of all, it requires the necessary libraries, such as OpenCV for image processing, pyautogui for click-and-key simulation, and keyboard for key detection.
+The code is easy to use and requires only a few libraries, including OpenCV for image processing, pyautogui for click-and-key simulation, and keyboard for key detection. Once you've loaded the reference image that corresponds to the yellow line on the blue square, https://user-images.githubusercontent.com/89668373/235968973-0640f012-e329-4bd7-9109-8625d89d81c7.png the program takes a screenshot of the specified play area and uses advanced image processing techniques to detect the presence of the yellow line. If the line is present, the program simulates a click on the fishing button, saving you the time and effort of clicking yourself.
 
-Then, it loads a reference image (template) that corresponds to the appearance of the yellow line on the blue square. It also defines the dimensions of the game (x, y, w, h).
+But that's not all - AutoFisher also detects when a fish has been caught and automatically presses the "e" key on your keyboard to reel it in. And the best part? The program runs until you manually stop it by pressing the "q" button.
 
-At each iteration, the program takes a screenshot of the specified play area and milks it to detect the presence of the yellow line on the blue square. If the result is greater than or equal to 0.8 (which means the yellow line is on the blue square), the program simulates a click on the fishing button (the big white circle).
-![image](https://user-images.githubusercontent.com/89668373/235973652-5d2ff4db-44ce-4bf5-b573-a24a65c082c3.png)
-
-When the fish is catch, the white circle disapear so the program will press "e" on your keyboard to catch the fish and then will restart the process until u press the "q" button to stop the program. 
-
+Say goodbye to endless clicking and hello to efficient, automated fishing with AutoFisher. Try it out today and see how it can enhance your gaming experience.
 
 
 
