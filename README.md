@@ -31,7 +31,21 @@ With AutoFisher, you can focus on other aspects of the game or simply relax whil
 
 ---
 
-This version provides a concise yet comprehensive overview of the tool, its functionality, and how to use it.
+## Copyright & Disclaimer
+
+© 2023 [Mahdi Aggoun]. All rights reserved.
+
+This software and accompanying documentation are provided as-is without any warranty, either expressed or implied. While every effort has been made to ensure the software functions as intended, the user assumes all risks of use, potential damages, and any costs associated with said use.
+
+Unauthorized copying, modification, distribution, or use of this software, either in source or binary form, is strictly prohibited without the prior written consent of the copyright holder. Any infringement may be subject to legal action.
+
+The software is designed to assist users in the game [Project Slayers on Roblox](https://www.roblox.com/games/5956785391/Update-1-Project-Slayers). The authors or copyright holders are in no way affiliated with, endorsed by, or sponsored by Roblox or the creators of Project Slayers.
+
+For permissions, inquiries, or further information, please contact [(https://github.com/DzMahdi)https://github.com/DzMahdi].
+
+---
+
+
 
 
 
