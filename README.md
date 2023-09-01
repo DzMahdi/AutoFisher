@@ -41,7 +41,7 @@ Unauthorized copying, modification, distribution, or use of this software, eithe
 
 The software is designed to assist users in the game [Project Slayers on Roblox](https://www.roblox.com/games/5956785391/Update-1-Project-Slayers). The authors or copyright holders are in no way affiliated with, endorsed by, or sponsored by Roblox or the creators of Project Slayers.
 
-For permissions, inquiries, or further information, please contact [(https://github.com/DzMahdi)https://github.com/DzMahdi].
+For permissions, inquiries, or further information, please contact [https://github.com/DzMahdi].
 
 ---
 
